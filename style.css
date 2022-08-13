@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css?family=Signika+Negative:300,400&display=swap");
+body {
+background-color:#181818}
+
+
+h1{
+  margin-left: 20px;
+  text-align:center;
+font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  font-size: 7.5vw;
+  text-transform: uppercase;
+  color:#FACD3D;
+   text-decoration: underline;
+   text-decoration-color: #5626C4;
+;
+}
+
+
+
+h2{
+  text-align:center;
+    font-weight: 800;
+  font-size: 2.5vw;
+  text-transform: uppercase;
+  color:#FACD3D;
+   text-decoration: underline;
+   text-decoration-color: #5626C4;
+    text-align:center;
+
+;
+}
+h3{
+  text-align:center;
+  font-weight: 800;
+  font-size: 2vw;
+  text-transform: uppercase;
+  color:#FACD3D;
+   text-decoration: underline;
+   text-decoration-color: #5626C4;;
+}
+h4{
+  text-align:left;
+  font-weight: 800;
+  font-size: 2vw;
+  text-transform: uppercase;
+  color:#FACD3D;
+   text-decoration: underline;
+   text-decoration-color: #5626C4;
+  
+;
+}
+p{
+  color:white;
+   font-family: "Montserrat Medium";
+  font-size: 25px; 
+}
+
+.homepage{
+text-align:left; 
+
+}
+
+.headingHomePage{
+  background-image:
+  margin-bottom: 50px;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#5626C4;
+}
+
+#img1{
+  margin-right: 13px;
+   margin-left: 20px;
+}
+
+#img2{
+  margin-right: 13px;
+
+}
+
+
+#img3{
+  margin-right: 13px;
+ 
+}
+
+
+#img4{
+  margin-right: 13px;
+  
+}
+
+
+#img5{
+  margin-right: 20px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color:#FACD3D;
+  
+}
+
+.questions{
+  text-align:left;
+}
+.headlines{
+  text-align:left;
+  font-size: 25px;
+}
+
+button{
+background-color:#5626C4; 
+color:#FACD3D;
+border-color: #FACD3D;
+ font-size: 25px;
+}
+#HelpHeading{
+  font-size: 32px;
+  text-align:center;
+}
+
+#help{
+  font-size: 75px;
+}
+#img7{
+  margin-right: 10px;
+  margin-left: 10px;
+}
+#img8{
+  margin-right: 10px;
+}
+img{
+padding: 5px;
+        border: 8px solid #5626C4;
+        background-color: #FACD3D;       
+}
